@@ -7,8 +7,8 @@ conda activate "Ваше имя env"
 
 pip install -r requirements.txt
 
-4. Активируйте окружение:
+3. Активируйте окружение:
 conda activate "Ваше имя env"
-5. Запустите приложение
+4. Запустите приложение
 
  
